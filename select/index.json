@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "The Happiest Girl",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-01T18:21:10.762350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Happiest Girl In The Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/01_The_Happiest_Girl_In_The_Whole_U.S.A._Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole USA",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/02_The_Happiest_Girl_in_the_Whole_USA_Donna_Fargo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Happiest Girl In The Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/03_The_Happiest_Girl_In_The_Whole_U.S.A._Donna_Fargo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/04_The_Happiest_Girl_in_the_Whole_U.S.A._Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Happiest Girl",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_The_Happiest_Girl_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Happiest Girl In The Whole USA",
+      "artist": "Nancy Sinatra",
+      "has_synced": true,
+      "path": "select/06_The_Happiest_Girl_In_The_Whole_USA_Nancy_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Happiest Girl In A Whole U.S.A.",
+      "artist": "Nancy Sinatra",
+      "has_synced": true,
+      "path": "select/07_The_Happiest_Girl_In_A_Whole_U.S.A._Nancy_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/08_The_Happiest_Girl_in_the_Whole_U.S.A._Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Happiest Girl In the Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/09_The_Happiest_Girl_In_the_Whole_U.S.A._Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole U.S.A.",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/10_The_Happiest_Girl_in_the_Whole_U.S.A._Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Happiest Girl In The Whole U.S.A.",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/11_The_Happiest_Girl_In_The_Whole_U.S.A._Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/12_The_Happiest_Girl_in_the_Whole_U.S.A._Donna_Fargo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole USA",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/13_The_Happiest_Girl_in_the_Whole_USA_Donna_Fargo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Happiest Girl In the Whole USA",
+      "artist": "Red Sky July",
+      "has_synced": true,
+      "path": "select/14_The_Happiest_Girl_In_the_Whole_USA_Red_Sky_July.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Happiest Girl in the Whole USA",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/15_The_Happiest_Girl_in_the_Whole_USA_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Happiest Girl In The Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/pl_01_The_Happiest_Girl_In_The_Whole_U.S.A._Donna_Fargo.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Happiest Girl",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/pl_02_The_Happiest_Girl_Donna_Fargo.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The Happiest Girl",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/pl_03_The_Happiest_Girl_Donna_Fargo.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Happiest Girl (feat. 初音ミク)",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/pl_04_Happiest_Girl_(feat._初音ミク)_Donna_Fargo.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Happiest Girl",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/pl_05_Happiest_Girl_Donna_Fargo.txt"
+    }
+  ]
+}
